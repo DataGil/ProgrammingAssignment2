@@ -1,4 +1,4 @@
-makeCacheMatrix <- function(x = matrix()) {      # input x will be a vector
+makeCacheMatrix <- function(x = matrix()) {      # input x will be a matrix
         
         m <- NULL    #  m will be our 'inverse' and it's reset to NULL every 
         #    time makeCacheMatrix is called
